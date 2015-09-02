@@ -1,3 +1,6 @@
+#emacs backupfiles
+*~
+
 # Compiled Object files
 *.slo
 *.lo
@@ -29,3 +32,4 @@
 
 *.pdb
 *.ilk
+
