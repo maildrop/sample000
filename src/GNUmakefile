@@ -1,5 +1,5 @@
 CPP := g++
-CPPFLAGS := -std=c++11 -Wall -Werror -pthread 
+CPPFLAGS := -std=c++11 -O2 -Wall -Werror -pthread 
 
 all_TARGET := HelloWorld 
 clean_TARGET := $(all_TARGET)
